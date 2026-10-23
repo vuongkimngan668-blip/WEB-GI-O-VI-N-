@@ -1,0 +1,8 @@
+{
+  "name": "NHT ENGLISH LEARNING HUB",
+  "description": "Hệ thống học tập và quản lý môn Tiếng Anh - Trường THCS Nguyễn Huy Tưởng, GV: Vương Thị Ngân",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
